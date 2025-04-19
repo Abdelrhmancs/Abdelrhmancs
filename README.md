@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Sayed Mohamed</h1>
 <h3 align="center">A Student Cs and Backend</h3>
 
-- 🔭 I’m currently working on [my cv](https://flowcv.com/resume/pkqm0kof5w)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhmancs" alt="abdelrhmancs" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
+
+- 📄 Know about my experiences [my cv](https://flowcv.com/resume/pkqm0kof5w)
 
 - 📫 How to reach me **ght7234@gmail.com**
 

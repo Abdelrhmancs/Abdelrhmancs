@@ -1,8 +1,8 @@
 <h1 align="center">💫 About Me</h1>
 
 <h3 align="center">
-Hi 👋, I'm <span style="color:#00bfff;">Abdelrhman Sayed Mohamed</span><br>
-🎓 Computer Science Student | 💻 Fullstack Developer
+Hi I'm <span style="color:#00bfff;">Abdelrhman Sayed Mohamed</span><br>
+ Fullstack Developer
 </h3>
 
 ---

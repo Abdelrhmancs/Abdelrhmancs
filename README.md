@@ -25,7 +25,6 @@ Hi I'm <span style="color:#00bfff;">Abdelrhman Sayed Mohamed</span><br>
 ## 💻 Tech Stack
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -40,8 +39,15 @@ Hi I'm <span style="color:#00bfff;">Abdelrhman Sayed Mohamed</span><br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -57,11 +63,6 @@ Hi I'm <span style="color:#00bfff;">Abdelrhman Sayed Mohamed</span><br>
   <img width="350" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Abdelrhmancs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10"/>
 </p>
 
-
 <p align="center">
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Abdelrhmancs.Abdelrhmancs">
 </p>
-
-
-
-
